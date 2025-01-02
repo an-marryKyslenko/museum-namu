@@ -11,7 +11,8 @@ NAMU showcases skills in HTML and CSS. The site was developed using the BEM meth
 ## LINK TO DESIGN
 [Figma design](https://www.figma.com/file/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3-(Edit)?node-id=0%3A1)
 
-## Mochup
-[FIGMA DESIGN](figma.com/design/cRBCqE06cDrY3s4jX7h3iY/НАМУ)
+## DEMO LINK
+
+[NAMU](https://an-marrykyslenko.github.io/museum-namu/)
 
 ### END
